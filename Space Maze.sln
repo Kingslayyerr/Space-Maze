@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DDF13357-3B7F-3508-3985-599CA6FCEB8D}") = "Space Maze", "Assembly-CSharp.csproj", "{D664B2E0-30F2-58B5-D822-011F80FB2896}"
+EndProject
+Project("{DDF13357-3B7F-3508-3985-599CA6FCEB8D}") = "Space Maze", "Assembly-CSharp-Editor.csproj", "{C638CD55-45ED-0745-DE5C-0338A37BA770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D664B2E0-30F2-58B5-D822-011F80FB2896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D664B2E0-30F2-58B5-D822-011F80FB2896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D664B2E0-30F2-58B5-D822-011F80FB2896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D664B2E0-30F2-58B5-D822-011F80FB2896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C638CD55-45ED-0745-DE5C-0338A37BA770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C638CD55-45ED-0745-DE5C-0338A37BA770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C638CD55-45ED-0745-DE5C-0338A37BA770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C638CD55-45ED-0745-DE5C-0338A37BA770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
